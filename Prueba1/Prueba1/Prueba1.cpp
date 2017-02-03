@@ -6,6 +6,7 @@
 
 int main()
 {
+	int sdjfhsdajfhksjdhf = 0;
     return 0;
 }
 
